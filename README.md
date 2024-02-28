@@ -1,5 +1,5 @@
 ## atlanticcigar-spider
-A https://atlanticcigar.com/ scrapy crawler
+A scrapy crawler for atlanticcigar.com
 
 # Set-up
 * Design the brand_list of `AcspiderSpider`(located in atlanticcigar\spiders\ACspider.py).
